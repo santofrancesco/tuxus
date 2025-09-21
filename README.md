@@ -7,7 +7,7 @@
 ---
 
 ## 💿 About TUXUS
-TUXUS is a lightweight Python GTK application that makes it effortless to prepare USB drives and burn ISO images. Whether you’re flashing a Linux distribution or just reformatting a drive, TUXUS provides a modern interface with essential power-user features. It uses Python to execute widely available Bash commands such as mkfs, umount, md5sum, etc. on Debian and its derivatives. 
+TUXUS is a lightweight Python GTK application that makes it effortless to prepare USB drives and burn ISO images. Whether you’re flashing a Linux distribution or just reformatting a drive, TUXUS provides a modern interface with essential power-user features. It uses Python to execute widely available Bash commands such as mkfs, umount, md5sum, etc. on Debian and its derivatives.  
 Initially created for personal use, TUXUS was later refined and made available to the public, specifically for users switching to Linux for the first time and for those who prefer a graphical user interface to perform quick tasks without the need to remember a series of long commands. It offers both basic and advanced options to satisfy a broader audience. Casual users can use the default settings, while advanced users can customize the options to meet their specific needs.
 
 ---
@@ -59,18 +59,19 @@ python3 main.py
 ## 📸 Screenshots
 <div style="text-align: center;">
     <figure>
-        <img src="images/tuxus_screenshot1.png" alt="Screenshot 1" style="width: 50%;"/>
+        <img src="images/tuxus_screenshot1.png" alt="Screenshot 1" style="width: 45%;"/>
         <figcaption>Burn ISO images to USB drives</figcaption>
     </figure>
     <figure>
-        <img src="images/tuxus_screenshot2.png" alt="Screenshot 2" style="width: 50%;"/>
+        <img src="images/tuxus_screenshot2.png" alt="Screenshot 2" style="width: 45%;"/>
         <figcaption>Format USB drives</figcaption>
     </figure>
   <figure>
-        <img src="images/tuxus_screenshot3.png" alt="Screenshot 3" style="width: 50%;"/>
+        <img src="images/tuxus_screenshot3.png" alt="Screenshot 3" style="width: 45%;"/>
         <figcaption>Verify any file's integrity</figcaption>
     </figure>
 </div>
+
 ---
 
 ## 📖 License
