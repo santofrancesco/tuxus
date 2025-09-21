@@ -40,7 +40,7 @@ tuxus
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/tuxus.git
+git clone https://github.com/santofrancesco/tuxus.git
 cd tuxus
 ```
 
