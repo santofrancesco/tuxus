@@ -1,5 +1,5 @@
 # TUXUS  
-*A clean and powerful ISO burning app & USB drive formatting for Linux.*
+*A clean and powerful ISO burning & USB drive formatting app for Linux.*
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
@@ -7,8 +7,8 @@
 ---
 
 ## 💿 About TUXUS
-TUXUS is a lightweight Python GTK application that makes it effortless to prepare USB drives and burn ISO images.  
-Whether you’re flashing a Linux distribution or just reformatting a drive, TUXUS provides a modern interface with essential power-user features.
+TUXUS is a lightweight Python GTK application that makes it effortless to prepare USB drives and burn ISO images. Whether you’re flashing a Linux distribution or just reformatting a drive, TUXUS provides a modern interface with essential power-user features. It uses Python to execute widely available Bash commands such as mkfs, umount, md5sum, etc. on Debian and its derivatives. 
+Initially created for personal use, TUXUS was later refined and made available to the public, specifically for users switching to Linux for the first time and for those who prefer a graphical user interface to perform quick tasks without the need to remember a series of long commands. It offers both basic and advanced options to satisfy a broader audience. Casual users can use the default settings, while advanced users can customize the options to meet their specific needs.
 
 ---
 
@@ -57,9 +57,20 @@ python3 main.py
 ---
 
 ## 📸 Screenshots
-![Screenshot 1](images/tuxus_screenshot1.png)
-![Screenshot 2](images/tuxus_screenshot2.png)
-![Screenshot 3](images/tuxus_screenshot3.png)
+<div style="text-align: center;">
+    <figure>
+        <img src="images/tuxus_screenshot1.png" alt="Screenshot 1" style="width: 50%;"/>
+        <figcaption>Burn ISO images to USB drives</figcaption>
+    </figure>
+    <figure>
+        <img src="images/tuxus_screenshot2.png" alt="Screenshot 2" style="width: 50%;"/>
+        <figcaption>Format USB drives</figcaption>
+    </figure>
+  <figure>
+        <img src="images/tuxus_screenshot3.png" alt="Screenshot 3" style="width: 50%;"/>
+        <figcaption>Verify any file's integrity</figcaption>
+    </figure>
+</div>
 ---
 
 ## 📖 License
