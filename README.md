@@ -57,7 +57,9 @@ python3 main.py
 ---
 
 ## 📸 Screenshots
-
+![Screenshot 1](images/tuxus_screenshot1.png)
+![Screenshot 2](images/tuxus_screenshot2.png)
+![Screenshot 3](images/tuxus_screenshot3.png)
 ---
 
 ## 📖 License
