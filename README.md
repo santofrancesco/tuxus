@@ -2,7 +2,7 @@
 *A clean and powerful ISO burning app & USB drive formatting for Linux.*
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 
 ---
 
