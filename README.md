@@ -58,6 +58,7 @@ python3 main.py
 ---
 
 ## 📸 Screenshots
+**Note:** The app's appearance is tied to the OS theme due to GTK and will change according to the user's selected theme.
 <p align="center">
   <img src="https://github.com/santofrancesco/tuxus/blob/main/images/tuxus_screenshot1.png?raw=true" alt="Burn ISO images page"/>
   <br>
