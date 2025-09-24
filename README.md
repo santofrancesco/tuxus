@@ -1,7 +1,7 @@
 # TUXUS  
 *A clean and powerful ISO burning & USB drive formatting app for Linux.*
 
-![Linux](https://img.shields.io/badge/Debian-DD1155?logo=debian&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-white?logo=debian&logoColor=DD1155)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-GPLv3-brightgreen?logo=gnu)
 
