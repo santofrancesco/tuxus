@@ -1,9 +1,9 @@
 # TUXUS  
 *A clean and powerful ISO burning & USB drive formatting app for Linux.*
 
-![Debian](https://img.shields.io/badge/Debian-white?logo=debian&logoColor=DD1155)
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-GPLv3-brightgreen?logo=gnu)
+[![Debian](https://img.shields.io/badge/Debian-white?logo=debian&logoColor=DD1155)](https://www.debian.org/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/doc/)
+[![License](https://img.shields.io/badge/License-GPLv3-brightgreen?logo=gnu)](https://www.gnu.org/licenses/gpl-3.0)
 
 ---
 
@@ -84,4 +84,7 @@ python3 main.py
 ---
 
 ## 📖 License
-(work in progress)
+
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-with-text-136x68.png)](https://www.gnu.org/licenses/gpl-3.0.en.html) 
+
+This software is licensed under the GNU General Public License v3.0. You can freely use, modify, and distribute this software, provided that all copies include this license and the same freedoms are preserved in derivative works. For more information, please visit the official [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html) page.
