@@ -4,6 +4,7 @@
 [![Debian](https://img.shields.io/badge/Debian-white?logo=debian&logoColor=DD1155)](https://www.debian.org/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)](https://www.python.org/doc/)
 [![License](https://img.shields.io/badge/License-GPLv3-brightgreen?logo=gnu)](https://www.gnu.org/licenses/gpl-3.0)
+![Architecture](https://img.shields.io/badge/Architecture-amd64-purple.svg)
 
 ---
 
@@ -29,7 +30,7 @@ Initially created for personal use, TUXUS was later refined and made available t
 
 Download the latest `.deb` release from the [Releases page](github.com/santofrancesco/tuxus/releases) and install it with:
 ```bash
-sudo dpkg -i tuxus_x.y.z.deb    # replace x.y.z with the version you want to install
+sudo dpkg -i tuxus_x.y.z_amd64.deb    # replace x.y.z with the version you want to install
 sudo apt-get install -f   # to resolve any missing dependencies
 ```
 
