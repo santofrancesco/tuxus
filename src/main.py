@@ -20,6 +20,7 @@
 """
 
 import gi
+
 gi.require_version("Gtk", "3.0")
 from gi.repository import Gtk
 
@@ -30,7 +31,8 @@ if __name__ == "__main__":
     win.connect("destroy", Gtk.main_quit)
     win.show_all()
 
-    print("""
+    print(
+        """
 
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
@@ -46,7 +48,9 @@ if __name__ == "__main__":
 └──────────────────────────────────────────────────────────────┘
                      
                         Copyright © 2025 
-""")
+"""
+    )
 
     Gtk.main()
     print("Tuxus terminated successfully. Goodbye!")
+
