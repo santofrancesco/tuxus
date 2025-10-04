@@ -44,7 +44,7 @@ tuxus
 Clone the repository:
 ```bash
 git clone https://github.com/santofrancesco/tuxus.git
-cd tuxus
+cd tuxus/src
 ```
 
 Install Python dependencies:
